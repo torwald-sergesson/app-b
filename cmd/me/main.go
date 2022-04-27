@@ -17,4 +17,9 @@ func main() {
 		return
 	}
 	log.Printf("Me: %#v\n", me)
+	group, err := cli.MyGroup()
+	if err != nil {
+		log.Fatalf("fail to get my group: %s\n", err)
+	}
+	log.Printf("My Group: %+v\n", group)
 }
