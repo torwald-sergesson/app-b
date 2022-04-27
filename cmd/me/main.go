@@ -16,5 +16,5 @@ func main() {
 		log.Fatalf("fail to get response: %s\n", err)
 		return
 	}
-	log.Printf("Me: %q\n", me)
+	log.Printf("Me: %#v\n", me)
 }
