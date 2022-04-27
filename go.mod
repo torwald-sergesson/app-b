@@ -2,5 +2,6 @@ module github.com/torwald-sergesson/app-b
 
 go 1.17
 
-require github.com/torwald-sergesson/app-a/pkg/client v0.0.4
-require github.com/torwald-sergesson/app-a/pkg/dto v0.0.2 // indirect
+require github.com/torwald-sergesson/app-a/pkg/client v0.0.7
+
+require github.com/torwald-sergesson/app-a/pkg/dto v0.0.3 // indirect
