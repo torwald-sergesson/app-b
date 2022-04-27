@@ -1,4 +1,4 @@
-github.com/torwald-sergesson/app-a/pkg/client/v2 v2.0.4 h1:qUYeIgKIFvajCpLeyMpRF8m/eLvL6lFqHcMkvhY5B3M=
-github.com/torwald-sergesson/app-a/pkg/client/v2 v2.0.4/go.mod h1:UeyjaNCQTd5NwsrNuGERjLb2qpiOqX5WQebYnGKNYM0=
+github.com/torwald-sergesson/app-a/pkg/client/v2 v2.0.6 h1:R3VQJGmrH543VC3WwQBghJNlcwnVrbgI57jA2TRGlCw=
+github.com/torwald-sergesson/app-a/pkg/client/v2 v2.0.6/go.mod h1:UeyjaNCQTd5NwsrNuGERjLb2qpiOqX5WQebYnGKNYM0=
 github.com/torwald-sergesson/app-a/pkg/dto/v2 v2.1.0 h1:PQRtiT8ETeLUprMS20FAbvnj0OX3UA6AeyHlrWLTEjw=
 github.com/torwald-sergesson/app-a/pkg/dto/v2 v2.1.0/go.mod h1:Omln++29+0MSnvnhiqZ9bGWwluRGD/N2no2QBwET/zc=
