@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/torwald-sergesson/app-a/pkg/client"
+	"github.com/torwald-sergesson/app-a/pkg/client/v2"
 )
 
 const DefaultAddr = "localhost:8080"
