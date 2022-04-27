@@ -1,10 +1,6 @@
-# github.com/torwald-sergesson/app-a/pkg/client v1.0.2
-## explicit; go 1.17
-# github.com/torwald-sergesson/app-a/pkg/client/v2 v2.0.1
+# github.com/torwald-sergesson/app-a/pkg/client/v2 v2.0.3
 ## explicit; go 1.17
 github.com/torwald-sergesson/app-a/pkg/client/v2
-# github.com/torwald-sergesson/app-a/pkg/dto v1.0.1
-## explicit; go 1.17
 # github.com/torwald-sergesson/app-a/pkg/dto/v2 v2.0.2
 ## explicit; go 1.17
 github.com/torwald-sergesson/app-a/pkg/dto/v2
